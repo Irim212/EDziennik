@@ -1,0 +1,11 @@
+C:\Users\Tomek\Documents\Visual Studio 2017\Projects\Seba\Seba\bin\Debug\netcoreapp2.0\Seba.deps.json
+C:\Users\Tomek\Documents\Visual Studio 2017\Projects\Seba\Seba\bin\Debug\netcoreapp2.0\Seba.runtimeconfig.json
+C:\Users\Tomek\Documents\Visual Studio 2017\Projects\Seba\Seba\bin\Debug\netcoreapp2.0\Seba.runtimeconfig.dev.json
+C:\Users\Tomek\Documents\Visual Studio 2017\Projects\Seba\Seba\bin\Debug\netcoreapp2.0\Seba.dll
+C:\Users\Tomek\Documents\Visual Studio 2017\Projects\Seba\Seba\bin\Debug\netcoreapp2.0\Seba.pdb
+C:\Users\Tomek\Documents\Visual Studio 2017\Projects\Seba\Seba\obj\Debug\netcoreapp2.0\Seba.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Documents\Visual Studio 2017\Projects\Seba\Seba\obj\Debug\netcoreapp2.0\Seba.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Documents\Visual Studio 2017\Projects\Seba\Seba\obj\Debug\netcoreapp2.0\Seba.AssemblyInfoInputs.cache
+C:\Users\Tomek\Documents\Visual Studio 2017\Projects\Seba\Seba\obj\Debug\netcoreapp2.0\Seba.AssemblyInfo.cs
+C:\Users\Tomek\Documents\Visual Studio 2017\Projects\Seba\Seba\obj\Debug\netcoreapp2.0\Seba.dll
+C:\Users\Tomek\Documents\Visual Studio 2017\Projects\Seba\Seba\obj\Debug\netcoreapp2.0\Seba.pdb
